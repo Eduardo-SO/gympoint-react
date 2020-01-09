@@ -2,5 +2,5 @@ import styled from 'styled-components';
 
 export const Wrapper = styled.div`
     height: 100%;
-    background: radial-gradient(#7159c1, #ab59c1);
+    background: linear-gradient(#7159c1, #ab59c1);
 `;
