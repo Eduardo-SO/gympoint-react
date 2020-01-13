@@ -54,6 +54,10 @@ export const Content = styled.div`
         span {
             margin: 5px 0 0 5px;
             color: #ee4d64;
+
+            &::before {
+                content: '• ';
+            }
         }
 
         button {
